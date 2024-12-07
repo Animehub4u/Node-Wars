@@ -1,13 +1,3 @@
-📞 Contact
-
-> If you encounter any issues or have questions, feel free to reach out:
-
-- Contact: [Link](t.me/MeoMunDep)
-- Group: [Link](t.me/KeoAirDropFreeNe)
-- Channel: [Link](t.me/KeoAirDropFreeNee)
-
-> Help me with your referral [Link](https://t.me/nodewars_bot?start=6713068747)
-
 ## 🚀 Getting Started
 
 To get started with the bot, follow these steps:
